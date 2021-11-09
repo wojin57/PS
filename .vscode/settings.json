@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "wrapthread.h": "c"
+    },
+    
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
